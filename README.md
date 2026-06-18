@@ -60,46 +60,7 @@ Final Year B.E. Artificial Intelligence & Data Science Student passionate about 
 - Deep Learning
 - Artificial Intelligence
 - Problem Solving
-
----
-
-## 🚀 Featured Projects
-
-### 📊 Sales Analysis Dashboard
-Interactive dashboard built using Power BI and SQL for business insights and KPI tracking.
-
-### 🧠 Machine Learning Project
-Applied machine learning techniques for predictive analytics and data-driven decision making.
-
-### 📈 Data Analytics Project
-Performed data cleaning, EDA, and visualization using Python, Pandas, and SQL.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-✅ Python
-
-✅ SQL
-
-✅ Power BI
-
-✅ Data Analytics
-
-✅ Machine Learning
-
-✅ Deep Learning
-
----
-
+- 
 ## 📫 Connect With Me
 
 📧 Email: your-email@gmail.com
